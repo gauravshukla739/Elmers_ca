@@ -1,0 +1,18 @@
+$Id: CREDITS,v 1.1 2001/04/30 22:02:38 nettrom Exp $
+
+==============================================================================
+
+Morten's JavaScript Tree Menu was originally a slightly modified version
+of Mike Hall's JavaScript Tree Menu as found on his web site in October, 1998.
+Development of his version has since discontinued, but his web site remains
+online at http://www.brainjar.com/
+
+Most of the code and the concepts of the current version have, not
+surprisingly, been created by Morten Wang.
+
+The code needed to add the ability to control expansion as well as separate
+icons for closed & open state of sub menus was provided by Arthur Veinstein.
+
+The patch needed to make tracking work when navigating local files in
+Microsoft Internet Explorer was provided by both Bill Lange
+and David Favis-Mortlock.

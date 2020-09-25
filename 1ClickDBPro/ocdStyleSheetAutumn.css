@@ -1,0 +1,153 @@
+A { 
+  font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #603300;
+}
+A:hover { 
+  font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #990000;
+} 
+A:visited { 
+  font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #603300;	
+}
+A.Menu { 
+  font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #603300;
+	text-decoration : none;
+
+}
+A.Menu:hover { 
+  font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : 603300;
+	background : #FFF033;
+	text-decoration : none;
+} 
+A.Menu:visited { 
+   	font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #603300;	
+	text-decoration : none;
+}
+SPAN.FieldName {
+	font-weight : bold;
+}
+BODY {
+	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	scrollbar-base-color : #FFF0C0;
+	scrollbar-face-color : #FFCC9C;
+	scrollbar-shadow-color : #FFF0C0;
+	scrollbar-highlight-color : #FFF0C0;
+	scrollbar-3dlight-color : #FFF0C0;
+	scrollbar-darkshadow-color : #FFF0C0;
+	scrollbar-track-color : #FFF0C0;
+	scrollbar-arrow-color : #ffffff;
+	background : #FFFFFF;
+	xcolor : #8b4513;
+	color : #9C3603;
+}
+P {
+	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TD {
+   	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TH {
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TABLE.Grid {
+	border : none
+}
+TR.GridOdd{
+		background-color : #FFCE9E;
+
+}
+TR.GridEven {
+	background-color : #FFF0C0;
+}
+TR.GridSelect {
+	color : #603300;
+	background : #FFFCC3;
+}
+TR.GridHeader {
+	background-color : #9C6603;
+	color : #FFFFFF;
+}
+INPUT {
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+INPUT.Submit {
+	background-color : #9C6603;
+	color : #ffffff;
+	font-weight : bold;
+	font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+SPAN.Information {
+	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #9C6603;
+	font-weight : bold;
+}
+SELECT {
+  font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TEXTAREA {
+  font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+form
+{
+	margin: 0px;
+}
+SPAN.Warning {
+	color : #FF0000;
+	font-weight : bold;
+  font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+SPAN.Notice {
+	font-size : 8pt;
+	font-family : "Times New Roman", Times, serif;
+}
+Table.DialogBox {
+	border : 2px;
+    padding:            2px;
+    padding-left:       2px;
+    padding-right:      2px;
+    background-color:  silver;
+	color: #8b4513;
+}
+TH.DialogBoxHeader {
+	text-align : left;
+	background-color : #8B4513;
+	color : white;
+}
+Table.Loading{
+    background-color:  	#CCCCCC;
+	color: White;
+    border-left:        threedhighlight 2px solid;
+    border-top:         threedhighlight 2px solid;
+    border-right:       threedshadow 2px solid;
+    border-bottom:      threedshadow 2px solid;
+}
+#loading {
+	position : absolute;
+	left : 4em;
+	top : 4em;
+	z-index : 100;
+}
+SELECT {
+   	font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+}

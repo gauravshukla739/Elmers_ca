@@ -1,0 +1,160 @@
+a { 
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;
+}
+a:hover { 
+ 	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #990000;
+} 
+a:visited { 
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;	
+}
+a.Menu { 
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;
+	text-decoration : none;
+}
+a.Menu:hover { 
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330000;
+	background : #FFD700;
+	text-decoration : none;
+} 
+a.Menu:visited { 
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;	
+	text-decoration : none;
+}
+body {
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	background : #FFFFFF;
+}
+
+p {
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+td {
+  font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+th {
+ 	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+table.Grid {
+	border : none;
+}
+tr.GridOdd{
+	background-color : #F6F6F6;
+}
+tr.GridEven {
+	background-color : #F0F0F0;
+}
+tr.GridSelect {
+	color : #000000;
+	background-color : #FFFFFF;;
+}
+tr.GridHeader {
+	background-color : #DFD7DF
+}
+tr.GridStatistics {
+	background-color : #DFDFDF;
+}
+input {
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+input.Submit {
+	color : #300066;
+	background-color : F6F6F6;
+	font-weight : bold;
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+select {
+  font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+option {
+  font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+textarea {
+  font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+form
+{
+	margin: 0px;
+}
+span.Information {
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;
+	font-weight : bold;
+}
+span.FieldName {
+	font-weight : bold;
+}
+span.Warning {
+	color : #CC0000;
+	font-weight : bold;
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+span.ReportTitle {
+	font-size : small;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;
+	font-weight : bold;
+}
+span.Notice {
+	font-size : x-small;
+	font-family : Tahoma, Arial, sans-serif;
+}
+table.DialogBox {
+	border-left:        threedhighlight 2px solid;
+	border-top:         threedhighlight 2px solid;
+	border-right:       threedshadow 2px solid;
+	border-bottom:      threedshadow 2px solid;
+  padding:            2px;
+  background-color:  threedface;
+	color: Black;
+}
+th.DialogBoxHeader {
+	text-align : left;
+	background-color : navy;
+	color : white;
+}
+table.DialogBoxTable {
+	text-align : left;
+	color : black;
+}
+tr.DialogBoxRow {
+	text-align : left;
+	background-color : #F0F0F0;
+	color : black;
+}
+table.Loading{
+	background-color:  	#CCCCCC;
+	color: #993333;
+  border-left:        threedhighlight 2px solid;
+  border-top:         threedhighlight 2px solid;
+  border-right:       threedshadow 2px solid;
+  border-bottom:      threedshadow 2px solid;
+}
+#loading {
+	position : absolute;
+	left : 4em;
+	top : 4em;
+	z-index : 100;
+}

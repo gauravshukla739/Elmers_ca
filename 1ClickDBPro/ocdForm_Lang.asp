@@ -1,0 +1,15 @@
+<%
+	HTMLAttribForm = ""
+	HTMLUpdateFieldFails = "Cannot Update Field"
+	HTMLOLEError = "Type Mismatch"
+	HTMLStatusStart = "<TABLE><TR><TD><IMG SRC=""appWarning.gif"" ALT=""Warning"" border=0></td><TD>&nbsp;</td><TD><SPAN CLASS=Warning>"
+	HTMLStatusEnd = "</SPAN></td></tr></table>"
+	HTMLAutoIncrement = "(Auto)"
+	HTMLNotFound = "Record Not Found"
+	HTMLStatusFieldError = "Cannot Update Field "
+	HTMLAttribSaveBtn = "TYPE=""Submit"" Value=""Save"" CLASS=""Submit"""
+	HTMLAttribCancelBtn = "TYPE=""Submit"" Value=""Cancel"" CLASS=""Submit"""
+	HTMLAttribNewBtn = "TYPE=""Submit"" Value=""New"" CLASS=""Submit"""
+	HTMLAttribDeleteBtn = "TYPE=""Submit"" Value=""Delete"" CLASS=""Submit"""
+	HTMLCheckField = "<SPAN CLASS=Warning> Check Field </SPAN>"
+%>

@@ -1,0 +1,85 @@
+A { 
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;
+}
+A:hover { 
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #990000;
+} 
+A:visited { 
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;	
+}
+BODY {
+	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	background : #FFFFFF;
+}
+P {
+	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TD {
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TH {
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TABLE.Grid {
+	border : 1pt;
+}
+TR.GridOdd{
+	background-color : #FFFFFF;
+}
+TR.GridEven {
+	background-color : #FFFFFF;
+}
+TR.GridSelect {
+	color : #FFFFFF;
+}
+TR.GridHeader {
+	background-color : #CFCFCF;
+}
+INPUT {
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+INPUT.Submit {
+	color : #300066;
+	background-color : Silver;
+	font-weight : bold;
+	font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+SELECT {
+ 	font-size : 8pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+TEXTAREA {
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+SPAN.Information {
+	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+	color : #330066;
+	font-weight : bold;
+}
+SPAN.FieldName {
+	font-weight : bold;
+}
+SPAN.Warning {
+	color : #CC0000;
+	font-weight : bold;
+ 	font-size : 10pt;
+	font-family : Tahoma, Arial, sans-serif;
+}
+SPAN.Notice {
+	font-size : 8pt;
+	font-family : "Times New Roman", Times, serif;
+}
